@@ -1,8 +1,5 @@
 #milestone-app
----
 docker container for running milestones apps.  Basic Java 6 + Maven 3.2.5
-
----
 
 ##Options
 - MILE_APP - name of the jar or war: skynet, pdr, brochurejmsprocessing
@@ -13,8 +10,6 @@ docker container for running milestones apps.  Basic Java 6 + Maven 3.2.5
 - APP_ARGS - Program arguments.  Only used for batchapps
 
 See https://github.com/howardfackrell/milestone-cloud-deploy.git for more 
-
---
 
 ##Usage
 ```
